@@ -26,8 +26,3 @@ public class starpattern1 {
         sc.close();
     }
 }
-
-//  *
-//  **
-//  ***
-//  ****
