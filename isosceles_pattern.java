@@ -30,7 +30,6 @@ public class isosceles_pattern {
                 System.out.print(dec);
                 dec -= 1;
             }
-
             System.out.println();
             i += 1;
         }
