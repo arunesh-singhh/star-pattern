@@ -5,6 +5,7 @@
 //         34543
 //        4567654
 
+
 import java.util.Scanner;
 
 public class tringleOf_numbers {
