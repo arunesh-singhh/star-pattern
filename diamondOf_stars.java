@@ -49,5 +49,6 @@ public class diamondOf_stars {
             currRow -= 1;
         }
         s.close();
+        
     }
 }
